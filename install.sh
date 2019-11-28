@@ -1,5 +1,6 @@
 yum install python3
 yum install vim
+yum install tmux
 cd /root
 git clone https://github.com/yeluoge26/sptwitter.git
 cd sptwitter
